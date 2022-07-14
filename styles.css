@@ -1,0 +1,21 @@
+#page{
+    background-color: white;
+    text-align: left;
+}
+
+.homepage-title {
+    font-family: cursive, sans-serif;
+    font-size: 50px;
+
+}
+h2{
+    color: black;
+}
+ul {
+    font-family: "lucida console", "Courier New", "monospace";
+
+}
+img{
+    height: 300px;
+    width: 300px;
+}
